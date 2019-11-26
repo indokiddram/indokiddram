@@ -9,7 +9,7 @@
               {
                 "judul": "MNCTV",
                 "info": "TV Film dan Edukasi",
-               "link_tv": "http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+               "link_tv": "https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/mnc.jpg"
               },
               {
@@ -25,9 +25,9 @@
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/net.jpg"
               },
               {
-                "judul": "Indosiar",
+                "judul": "INDOSIAR",
                 "info": "Nonton Liga Inggris dan Lainnya",
-                "link_tv": "http://id1.indostreamingtv.com/live/tv11/index.m3u8",
+                "link_tv": "http://210.210.155.35/session/287096fc-1028-11ea-bfbf-ac5f8bdd9f62/qwr9ew/s/s04/01.m3u8",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/Indosiar.jpg"
               },
               {
@@ -39,37 +39,37 @@
               {
                 "judul": "SCTV",
                 "info": "Nonton FTV dan Sinetron",
-                "link_tv": "http://202.80.222.171:80/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+                "link_tv": "http://210.210.155.35/qwr9ew/s/s103/01.m3u8",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/sctv.jpg"
               },
               {
                 "judul": "GTV",
                 "info": "Nonton Film Oke di Global",
-               "link_tv": "http://202.80.222.171:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+               "link_tv": "https://live.rctiplus.id/rctiplus/gtv_720p.m3u8",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/gtv.jpg"
               },
               {
                 "judul": "TRANS7",
                 "info": "TV Rekreasi dan Inovatif",
-              "link_tv": "http://202.80.222.171:80/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+              "link_tv": "http://video.detik.com/trans7/smil:trans7.smil/chunklist_w539793841_b384000_sleng.m3u8",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/trans7.jpg"
               },
               {
                 "judul": "TRANSTV",
                 "info": "Film BOX Office Streaming",
-               "link_tv": "http://202.80.222.171:80/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+               "link_tv": "http://210.210.155.35/session/ba4d0934-1028-11ea-ae5a-bcdfb94d8cb1/qwr9ew/s/s100/01.m3u8",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/trans.jpg"
               },
               {
                 "judul": "ANTV",
                 "info": "Nonton Film India",
-                "link_tv": "http://202.80.222.171:80/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+                "link_tv": "http://210.210.155.35/qwr9ew/s/s102/01.m3u8",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/antv.jpg"
               },
               {
                 "judul": "TVOne",
                 "info": "Nonton Berita Live Streaming",
-                 "link_tv": "https://stream-01.sg1.dailymotion.com/dm/3/x619221/live-0.m3u8",
+                 "link_tv": "https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybDRo5ORT0O4-RRED5f9_DpM)/dm/3/x619221/s/live-0.m3u8",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/tvone.jpg"
               },
               {
@@ -87,7 +87,7 @@
               {
                 "judul": "TVRI",
                 "info": "Berita Nasional Indonesia Raya",
-                "link_tv": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8",
+                "link_tv": "http://202.80.222.130/000001/2/ch14041511560872104862/1003.m3u8?IASHttpSessionId=SLB242132019112608421830589447&ztecid=ch14041511560872104862&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch14041511560872104862&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMTAvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com",
                 "image_url": "https://raw.githubusercontent.com/indokiddram/indokiddram/master/Logo%20TV/tvri.jpg"
               }
             ]
